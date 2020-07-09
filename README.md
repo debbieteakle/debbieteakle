@@ -1,6 +1,6 @@
 Hi there! 👋
 
-- 🔭 I’m currently a technical recruiter
+- 🔭 I’m a technical recruiter
 - 🌱 I’m currently learning GatsbyJS
 - 💬 Ask me about JavaScript/Ruby/PHP roles in Sydney, Australia 
 - 📫 How to reach me: debbie@lookahead.com.au
