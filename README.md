@@ -1,8 +1,8 @@
 Hi there! 👋
 
 - 🔭 I’m a technical recruiter
-- 🌱 I’m currently learning GatsbyJS
-- 💬 Ask me about JavaScript/Ruby/PHP/Python roles in Sydney, Australia 
+- 🌱 I’m currently learning about Machine Learning
+- 💬 Ask me about product engineer and ML roles in Sydney, Australia 
 - 📫 How to reach me: debbie@lookahead.com.au
 - 😄 Pronouns: she/her
 
