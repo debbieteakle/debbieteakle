@@ -1,8 +1,8 @@
 Hi there! 👋
 
 - 🔭 I’m a technical recruiter
-- 🌱 I’m currently learning about Machine Learning
-- 💬 Ask me about product engineer and ML roles in Sydney, Australia 
+- 🤖 Also Building AI tooling for recruitment from the inside.
+- 💬 Ask me about AI & software engineer roles in Australia 
 - 📫 How to reach me: debbie@lookahead.com.au
 - 😄 Pronouns: she/her
 
